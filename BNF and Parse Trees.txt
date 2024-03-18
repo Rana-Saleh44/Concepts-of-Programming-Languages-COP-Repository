@@ -1,0 +1,7 @@
+Programming language 1.implementors (writers of compilers or interpreters).
+                     2.users (programmers).
+is divided into:
+                     1.syntax: the FORM of its expressions.
+                     2.semantics: the MEANING of its expressions.
+
+
