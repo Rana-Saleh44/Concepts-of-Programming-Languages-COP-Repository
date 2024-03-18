@@ -4,4 +4,15 @@ is divided into:
                      1.syntax: the FORM of its expressions.
                      2.semantics: the MEANING of its expressions.
 
+we'll focus on how we describe the syntax
+program->statment->lexemes->token(category of the lexemes)
+A program consists of a sequence of statements.
+A statement consists of a sequence of small units
+called lexemes.
+A token of a language is a category of its lexemes.
+= * + ; etc -> each on is in a different category (token) since they have different meaning 
+"lexem = token cus it is a category that has one element"
+
+to describe the syntax of a programming language we use grammar we'll BNF mechanism
+Backus-Naur"the inventors name" Form (BNF) grammar "Context free gammars(CFGs) for natural languages and then applied to the programming languages"
 
