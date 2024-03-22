@@ -17,5 +17,6 @@ to describe the syntax of a programming language we use grammar we'll BNF mechan
 Backus-Naur"the inventors name" Form (BNF) grammar "Context free gammars(CFGs) for natural languages and then applied to the programming languages"
 
 terminal it shows in the program 
-non-terminal it does not shows in the program <>
+non-terminal it does not shows in the program <> I'll describe it in the program
 
+LHS -> RHS
