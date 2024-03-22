@@ -16,7 +16,21 @@ A token of a language is a category of its lexemes.
 to describe the syntax of a programming language we use grammar we'll BNF mechanism
 Backus-Naur"the inventors name" Form (BNF) grammar "Context free gammars(CFGs) for natural languages and then applied to the programming languages"
 
+the lecture has an example of a small program consists of 5 rule "not fixed"
 terminal it shows in the program 
 non-terminal it does not shows in the program <> I'll describe it in the program
 
 LHS -> RHS
+in BNF there is someting called metasymbol |'vertical bar or slash' and that mean or  ->
+
+I can expand the statement_list into two thing one statement or statement ; statment_list
+and that is called recursive definition (it exist in both LHS and RHS) 
+
+the ; and the = is terminal that means that it exists in the program
+
+<var> -> A | B | C in this small program the programmer can't use any other variable name just A B C
+
+BNF is like a genarative device that can generate any program(Derivations) 
+
+
+how to make Derivation to that program begin A=B+C; B=C end from BNF
