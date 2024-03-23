@@ -34,3 +34,7 @@ BNF is like a genarative device that can generate any program(Derivations)
 
 
 how to make Derivation to that program begin A=B+C; B=C end from BNF
+
+what we did is the left most derivation but can do it right most derivation
+
+any program I can do drivation to it or it is not related to the BNF grammar
